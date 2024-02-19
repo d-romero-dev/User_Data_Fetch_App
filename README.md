@@ -1,4 +1,6 @@
-----------------------------------------------------------------
+> - Desarrollo Web / Desafío Sincrónico: Code Challenge (Individual) / Web Development / Grupo 255: Workspace 1 / Week 11
+-------------------------------------------------------------------------------------------------------------------------
+
 >[!NOTE]
 >**Welcome to the Code Challenge Web App – *where coding meets simplicity!* 🚀**
 >>*Embark on a coding adventure with Code Challenge! A project designed with a straightforward layout.*
